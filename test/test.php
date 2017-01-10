@@ -1,1 +1,2 @@
-<?php echo "Hoang Tien Giang"; ?>
+<?php phpinfo();?>
+<?php echo 'Hoang Tien Giang'; ?>
